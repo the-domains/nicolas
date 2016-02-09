@@ -1,0 +1,14 @@
+layout_spectrum: 0.8172043
+color:
+  saturation: 0.2405342
+  lightness: 0.611405
+  brandStrength: 1
+  brandColors:
+    - '#667765'
+    - '#18201D'
+    - '#76A5AC'
+    - '#E9D8D8'
+    - '#CFA387'
+  rhythmicContrast: 0.7741935
+typography_spectrum: 0.1003584
+name: Nicolas
