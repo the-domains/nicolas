@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ... or how are they all trying to be like Apple... so hard...
-datePublished: '2016-02-11T01:31:42.082Z'
-dateModified: '2016-02-11T01:31:38.262Z'
+datePublished: '2016-02-11T01:42:04.798Z'
+dateModified: '2016-02-11T01:41:56.445Z'
 title: 'The "iPhone killer" syndrome'
 author: []
 sourcePath: _posts/2016-02-11-the-iphone-killer-syndrome.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-iphone-killer-syndrome/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf469996df1fe30e39842591238c57427a9c7316.jpg)
