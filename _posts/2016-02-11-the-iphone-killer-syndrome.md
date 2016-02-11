@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ... or how are they all trying to be like Apple... so hard...
-datePublished: '2016-02-11T01:28:01.234Z'
-dateModified: '2016-02-11T01:27:55.553Z'
+datePublished: '2016-02-11T01:31:42.082Z'
+dateModified: '2016-02-11T01:31:38.262Z'
 title: 'The "iPhone killer" syndrome'
 author: []
 sourcePath: _posts/2016-02-11-the-iphone-killer-syndrome.md
