@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ... or how are they all trying to be like Apple... so hard...
-datePublished: '2016-02-11T01:19:20.327Z'
-dateModified: '2016-02-11T01:18:53.778Z'
+datePublished: '2016-02-11T01:28:01.234Z'
+dateModified: '2016-02-11T01:27:55.553Z'
 title: 'The "iPhone killer" syndrome'
 author: []
+sourcePath: _posts/2016-02-11-the-iphone-killer-syndrome.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-11-the-iphone-killer-syndrome.md
-published: true
 url: the-iphone-killer-syndrome/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46167db9-f892-4471-8ef8-f4de9c03d9c0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf469996df1fe30e39842591238c57427a9c7316.jpg)
 
 So here's the thing, Tag Heuer unveiled yesterday their smartwatch with Google and Intel. I'm not going to talk about specific technical details, you just need to know that it's got a titanium structure, a rubber band, an Intel processor and the Android OS which I'm not going to bash here, they do it perfectly fine by themselves. I'm more having a look at the strategy behind it.
 
@@ -31,7 +31,7 @@ A few months ago I've written a piece called -[Time to say "I told you so..."][0
 So, before having a laugh, I would like to send my respect to Jean-Claude Biver (CEO of Tag Heuer) for being the first real Swiss watch maker to compete with the Apple Watch. Unlike the cheap Samsung Gear, Tag Heuer could play the luxury card and that brand was perfect to launch a smartwatch because in the luxury watch brands world, it's also a performance watch (racing, tennis...). 
 
 Now, let's compare what's comparable. The**Tag Heuer Connected Watch**is priced at $1'500 (left) so I've looked for the counter part at Apple and it happened to be the**Apple Watch HERMES Edition**at $1'100 (right).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07cdf306-d060-49b1-a31f-513e48613dad.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e226df104eb19e66ffcb7ab4e946b1eaa5fe0295.jpg)
 
 One cannot compare the look because it's too subjective and to be honest, the Tag Heuer is pretty nice looking but that's besides the point. Their challenge was to make it look like a mechanical watch and that's where I'm coming at:**there are books and then there are e-books**. Making something hybrid makes no sense because as I've learned in my Harvard Branding class, you have to be true to yourself as a brand otherwise you are taking the risk to confuse your crowd.
 
@@ -45,7 +45,7 @@ Let's be clear, I'm not talking about those who absolutely love and respect the 
 I understand that for Tag Heuer, making a smartwatch is all about survival. We know what happened to MP3 players who did not stand a chance against the iPod (remember Riot? Zune anyone? that's right). We're currently at the dawn of technological wearable and unless the Swiss watchmakers focus on adopting Apple Watch OS (the dominating player), I'm pretty sure that many of them will be gone. How many "iPhone killers" has Samsung launched since 2007? None. Watchmakers shouldn't compete against Apple unless they have a really strong brand and some sort of innovative interface Apple doesn't have.
 
 Oh and I'm not talking about other Swiss smartwatches just because Tag Heuer had a keynote yesterday. I did not mention SWATCH "smartwatch" because it's simply pathetic... you know... that company from that cigar-smoking-clown Hayek who accomplished nothing and inherited from his dad? Yup, we all remember how SWATCH turned down the iPod before it was Apple's. Morons.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3e97371-930d-4b1d-a9e2-a9f0221b329e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06a50a7e4b832777382affa739ad11644616c89.jpg)
 
 _- so... who literally cut the cheese?_
 
