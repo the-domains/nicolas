@@ -1,29 +1,41 @@
-name: Nicolas
-favicon: null
-layout_spectrum: 0.8172043
-typography_spectrum: 0.09163
 title: "\"Do, or do not... There's no try.\" - Yoda"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.2405342
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#F0EDE6'
+    - '#B1B3A5'
+    - '#060405'
+    - '#77715B'
+    - '#AB0405'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Nicolas
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#01729a'
-    - '#ffc300'
-    - '#000000'
-    - '#f9f9f9'
-    - '#d26b42'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0.2405342
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.7383512
+layout_spectrum: 0.5
